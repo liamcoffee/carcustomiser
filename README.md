@@ -1,7 +1,7 @@
 ## Info
 
 Demonstation of a car customiser using a three.js example with controls ported to react components. Live demo here
-[http://206.189.18.205/imagesearch/]
+[http://206.189.18.205/zerolight/]
 
 ## Available Scripts
 
