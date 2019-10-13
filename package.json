@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "import-three-examples": "^2.2.4",
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0"
+    "react-preloaders": "^3.0.3",
+    "react-scripts": "3.2.0",
+    "three": "^0.109.0",
+    "three-gltf-loader": "^1.109.0",
+    "three-gltf2-helpers": "^1.0.9",
+    "three-pmrem": "^1.0.0",
+    "threejs_react": "^1.1.10"
   },
   "scripts": {
     "start": "react-scripts start",
