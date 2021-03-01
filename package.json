@@ -8,7 +8,7 @@
     "react-dom": "^16.10.2",
     "react-preloaders": "^3.0.3",
     "react-scripts": "3.2.0",
-    "three": "^0.109.0",
+    "three": "^0.125.0",
     "three-gltf-loader": "^1.109.0",
     "three-gltf2-helpers": "^1.0.9",
     "three-pmrem": "^1.0.0",
